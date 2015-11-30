@@ -1,4 +1,4 @@
-var AlchemyAPI = require('./api/alchemyapi');
+var AlchemyAPI = require('./alc/alchemyapi');
 var alchemy = new AlchemyAPI();
 
 var Promise = require("promise");
